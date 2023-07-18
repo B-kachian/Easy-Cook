@@ -2,7 +2,7 @@
 Easy-Cook is a cook-learning Application built with React.
 This project aims to allow the user to find recipes for a range of food and can add new recipes to the app.
 
-[EMDB](https://emdb-eagrcode.netlify.app/ "EMDB")
+
 
 ## Features
 
