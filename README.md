@@ -1,37 +1,26 @@
+# Easy-Cook 
 Easy-Cook is a cook-learning Application built with React.
-# EMDB
-
-A movie database clone using TMDB api.
-
-The purpose of this project, is to allow the user to find information on a range of Movies and TV Shows.
+This project aims to allow the user to find recipes for a range of food and can add new recipes to the app.
 
 [EMDB](https://emdb-eagrcode.netlify.app/ "EMDB")
 
 ## Features
 
-- Browse trending and popular Movies and TV Shows
-- Information page - trailers, reviews and more
-- Search TMDB api for all Movies and TV Shows
-
-### Future Features
-
-- Add user review
-- Sort by genre
-- Add favourites
-
+- learning how can make a cook at home
+- Add new recipes and share them with other users
+- Select images and videos of foods
+- 
 ## Technologies
-
-- [ViteJS](https://vitejs.dev/ "ViteJS")
-- [TMDB](https://developers.themoviedb.org/3/getting-started/introduction "TMDB")
-- [Tanstack Query](https://tanstack.com/query/latest "Tanstack Query")
 - [React Router](https://reactrouter.com/en/main/components/routes "React Router")
+- [bootstrap](https://getbootstrap.com/)
+- [Ant Design](https://www.npmjs.com/package/antd)
 
 ## Setup
 
-1. Clone project to directory
+1. Clone project to the directory
 
 ```console
-$ git clone https://github.com/eagrcode/EMDB.git
+$ git clone https://github.com/B-kachian/Easy-Cook.git
 ```
 
 2. Install project dependencies
@@ -64,4 +53,10 @@ $ npm run preview
 
 ```console
 $ npm run build
+```
+```console
+$ npm i antd      
+```
+```console
+$  npm i bootstrap@5.3.0
 ```
