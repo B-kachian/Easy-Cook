@@ -1,15 +1,12 @@
 # Easy-Cook 
-Easy-Cook is a cook-learning Application built with React.
-This project aims to allow the user to find recipes for a range of food and can add new recipes to the app.
-
+Easy-Cook is a React-based cooking application designed to facilitate culinary learning. The primary objective of this project is to provide users with a diverse collection of recipes, enabling them to explore a wide variety of foods. Additionally, users can contribute to the application by adding new recipes of their own.
 
 
 ## Features
 
-- learning how can make a cook at home
+- Earning how can make a cook at home
 - Add new recipes and share them with other users
 - Select images and videos of foods
-- 
 ## Technologies
 - [React Router](https://reactrouter.com/en/main/components/routes "React Router")
 - [bootstrap](https://getbootstrap.com/)
@@ -31,7 +28,7 @@ $ npm install
 
 ### Run commands
 
-- Start dev server
+- Start the dev server
 
 ```console
 $ npm run dev
