@@ -13,7 +13,7 @@ const Home = () => {
       <Divider />
       <Col span={8}>
         <Card title="Super Fun">
-          Easy cook is a super easy way to organize your recipes. You can view
+          Easy Cook is a super easy way to organize your recipes. You can view
           your recipe cards by logging in to the system!
         </Card>
       </Col>
@@ -22,12 +22,12 @@ const Home = () => {
           Whether you're home alone, or organizing a party for your friends and
           family, cooking is always fun but given the quantum of opportunities
           you get to impress your guests, you need to be particularly handy with
-          awesome recipes! That's where iCanCook! comes in!
+          awesome recipes!
         </Card>
       </Col>
       <Col span={8}>
         <Card title="Always Free!">
-        Easy cookk! is always free! We feel cooking is for everyone and to that
+        Easy cook! is always free! We feel cooking is for everyone and to that
           end, we will always keep this service free!
         </Card>
       </Col>
