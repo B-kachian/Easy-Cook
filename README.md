@@ -31,7 +31,7 @@ $ npm install
 - Start the dev server
 
 ```console
-$ npm run dev
+$ npm run start
 ```
 
 - Start dev server + view from additional devices
